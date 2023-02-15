@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${BEST:=School}School2*
+echo ${BEST:=School}Schoo
